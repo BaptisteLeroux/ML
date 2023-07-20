@@ -1,2 +1,2 @@
 # ML
-ML basics algorithms
+ML basic algorithms
